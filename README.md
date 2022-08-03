@@ -1,10 +1,13 @@
-# Getting Started with Create React App
+# React Admin Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Projeto criado com intuito de aprender mais sobre o framework ReactJS.
 
-## Available Scripts
+## Tecnologias usadas
 
-In the project directory, you can run:
+- JavaScript
+- Tailwind
+- Syncfusion 
+- React
 
 ### `npm start`
 
